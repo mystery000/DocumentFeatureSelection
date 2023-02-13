@@ -1,5 +1,5 @@
 #! -*- coding: utf-8 -*-
-__author__ = 'kensuke-mi'
+__author__ = 'arthlo'
 
 from DocumentFeatureSelection import interface
 import logging
